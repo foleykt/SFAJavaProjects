@@ -1,2 +1,2 @@
-# SFAJavaProjects
-Java projects done while at SFASU
+# CSC241Lab6
+Java project done at SFASU to study Java trees
